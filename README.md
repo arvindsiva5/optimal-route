@@ -6,7 +6,7 @@ end = 4\
 \# The locations where there are potential passengers\
 passengers = [2, 1]\
 \# The roads represented as a list of tuple\
-\# For each tuple (a, b, c, d)
+\# For each tuple (a, b, c, d)\
 - a is start point
 - b is end point
 - c is time taken without carpool
